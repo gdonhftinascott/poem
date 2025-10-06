@@ -28,3 +28,4 @@ enum CreatePet {
     CreateByPlainText(PlainText<String>),
 }
 ```
+<!-- Auto-update: 2025-10-06T19:45:27.439793 -->
